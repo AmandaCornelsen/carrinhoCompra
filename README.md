@@ -21,3 +21,12 @@ carrinhoCompra/
 ├── js/
 │   └── script.js             # Core shopping cart logic
 └── assets/                   # Images or other static resources (if any)
+
+---
+
+##Features
+
+- Add items to cart: clicking a product adds it to the cart without clearing previous selections.
+- Persist cart contents: items remain displayed when multiple additions are made.
+- Display total price: calculates and shows the total value of all items in the cart.
+- Empty cart functionality: a dedicated button clears all selections when clicked.
