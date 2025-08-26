@@ -24,7 +24,7 @@ carrinhoCompra/
 
 ---
 
-##Features
+## Features
 
 - Add items to cart: clicking a product adds it to the cart without clearing previous selections.
 - Persist cart contents: items remain displayed when multiple additions are made.
